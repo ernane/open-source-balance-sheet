@@ -11,3 +11,9 @@ O balanço apresenta a posição financeira da empresa no final de uma data espe
 
 # Ativos
 Ativos são coisas que a empresa possui. São os recursos da empresa que foram adquiridos através de transações e têm valor econômico futuro que pode ser medido e expresso em reais.
+
+# Passivos
+Um passivo é um montante que uma empresa deve. Normalmente, um passivo envolve dinheiro emprestado, a fim de apoiar as atividades empresariais, por isso também pode incluir contas a pagar e dívida geral.
+
+# Patrimônio Líquido
+Ativos menos passivos é igual ao saldo patrimonial. Qualquer valor remanescente em ativos pode ser atribuído ao patrimônio líquido do proprietário.
